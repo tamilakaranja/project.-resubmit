@@ -189,3 +189,15 @@ body {
     color: #666;
     line-height: 1.6;
 }
+
+/* Footer */
+footer {
+    background-color: #176b4d;
+    color: white;
+    text-align: center;
+    padding: 25px;
+}
+
+footer p {
+    font-size: 14px;
+}
