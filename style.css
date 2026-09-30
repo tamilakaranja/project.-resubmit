@@ -72,3 +72,38 @@ body {
     font-size: 20px;
     margin-bottom: 35px;
 }
+
+/* Search box */
+.search-box {
+    display: flex;
+    gap: 10px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 12px;
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.search-box input,
+.search-box select {
+    flex: 1;
+    padding: 15px;
+    border: none;
+    outline: none;
+    font-size: 16px;
+}
+
+.search-box button {
+    padding: 15px 25px;
+    border: none;
+    border-radius: 8px;
+    background-color: #176b4d;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.search-box button:hover {
+    background-color: #12553d;
+}
+
