@@ -41,3 +41,34 @@ body {
     color: #176b4d;
 }
 
+/* Hero section */
+.hero {
+    min-height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 60px 7%;
+    background: linear-gradient(
+        rgba(23, 107, 77, 0.8),
+        rgba(23, 107, 77, 0.8)
+    ),
+    url("../images/house1.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.hero-content {
+    max-width: 800px;
+    color: white;
+}
+
+.hero h1 {
+    font-size: 56px;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    font-size: 20px;
+    margin-bottom: 35px;
+}
