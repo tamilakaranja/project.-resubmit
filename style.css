@@ -230,3 +230,45 @@ footer p {
         width: 100%;
     }
 }
+/* Contact Us */
+.contact {
+    padding: 80px 7%;
+    background-color: #f1f6f3;
+    text-align: center;
+}
+
+.contact h2 {
+    font-size: 36px;
+    color: #176b4d;
+    margin-bottom: 15px;
+}
+
+.contact > p {
+    color: #666;
+    font-size: 17px;
+    margin-bottom: 40px;
+}
+
+.contact-info {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    flex-wrap: wrap;
+}
+
+.contact-info div {
+    background-color: white;
+    width: 280px;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
+}
+
+.contact-info h3 {
+    color: #176b4d;
+    margin-bottom: 10px;
+}
+
+.contact-info p {
+    color: #666;
+}
