@@ -9,7 +9,7 @@ My Home Finder is a responsive property website that helps users discover houses
 - Home section with an introduction and property search
 - Featured property listings
 - Rent and Buy sections
-- About Us section with an introductory video
+- About Us section
 - Contact Us section with contact information
 - Navigation links that take users directly to different sections
 - Responsive design for different screen sizes
@@ -38,3 +38,14 @@ my-home-finder/
 ## Purpose
 
 This project was created to practice HTML and CSS by building a real-world property website. It demonstrates webpage structure, navigation using IDs, images, video, styling, and responsive design.
+
+## Screenshots
+
+### Home page
+![Home page of My Home Finder](screenshots/home-page.png)
+
+### Featured listings
+![Featured property listings](screenshots/featured-listings.png)
+
+### Contact section
+![Contact section of My Home Finder](screenshots/contact-us.png)
